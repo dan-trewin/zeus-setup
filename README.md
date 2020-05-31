@@ -33,7 +33,7 @@ Zeus setup will ask you what type of install you would like after running it. Th
 4) Only Gaming Installs
 ```
 
-This is the lists of the applications Zeus setup automatically downloads and installs for you. The lists are in the same order as the config files, so feel free to tweak the config files to your liking. Remove the lines for the applications that you don't want on your new dev/gaming machine.
+This section lists the applications Zeus setup automatically downloads and installs for you. The lists are in the same order as the config files, so feel free to tweak the config files to your liking. Remove the lines for the applications that you don't want on your new dev/gaming machine.
 
 ### Utility Installs (`./utility-packages.config`)
 * Chrome
@@ -84,7 +84,7 @@ Next run and answer the initial prompt (specifying what type of install you want
 
 ## Uninstall applications
 
-To uninstall applications that Zeus setup installed for that you decide you don't want anymore, simply run:
+To uninstall applications after the fact that Zeus setup installed for you, simply run:
 
 ```
 choco uninstall <package-id> -y
@@ -92,4 +92,4 @@ choco uninstall <package-id> -y
 
 ## Closing Comments
 
-Zeus setup won't be for everyone. Feel free to fork your own version of zeus setup that better aligns with your software development and gaming needs.
+Zeus setup won't be for everyone. Feel free to fork your own version of Zeus setup and make adjustments that better align with your software development and gaming needs.

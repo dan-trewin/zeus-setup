@@ -1,6 +1,6 @@
 # zeus-setup
 
-Zeus setup is a script built with Chocolatey to help you get your new windows machine setup. This script is geared towards software developers and gamers. I am both at heart :heart:, as I'm sure many of you others are aswell. Zeus setup aims to get your new rig ready to develop and game on as quickly as possible.
+Zeus setup is a script built with Chocolatey to help you get your new windows machine setup. It installs all the applications you know and love! This script is geared towards software developers and gamers. I am both at heart :heart:. Zeus setup aims to get your new rig ready to develop and game on as quickly as possible.
 
 - [zeus-setup](#zeus-setup)
   - [Chocolatey Introduction / Resources](#chocolatey-introduction--resources)
